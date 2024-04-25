@@ -11,3 +11,14 @@
 ## Cadastro Para Novos Usuários:
  * Para novos usuários que ainda não possuem uma conta, há a opção de se cadastrar na plataforma.
  ![teladecadastro](tela%20de%20cadastro.jpeg)
+
+# Tecnologias utilizadas
+
+| Tecnologia    | Versão    |
+|---------------|-----------|
+| HTML          |   5       |
+| CSS           |   3       |
+| MDN WEB DOCS  |   x       |
+| GITHUB        |   X       |
+| GIT           |   2.37    |
+| JAVASCRIPT    |           |
