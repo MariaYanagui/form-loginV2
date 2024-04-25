@@ -8,3 +8,6 @@
 ## Recuperação de Senha:
 * Caso o usuário tenha esquecido sua senha, ele pode acessar a página de recuperação de senha para inserir seu endereço de e-mail e receber instruções sobre como redefinir sua senha.
 ![teladeredefinição](tela%20de%20redefinição.jpeg)
+## Cadastro Para Novos Usuários:
+ * Para novos usuários que ainda não possuem uma conta, há a opção de se cadastrar na plataforma.
+ ![teladecadastro](tela%20de%20cadastro.jpeg)
