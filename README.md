@@ -25,4 +25,6 @@
 
 ## Fontes consultadas
 
- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input)
+* [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input)
+## AUTORA 
+<img src="yanagui.jpg" width=200px>
