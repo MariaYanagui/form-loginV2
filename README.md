@@ -22,3 +22,7 @@
 | GITHUB        |   X       |
 | GIT           |   2.37    |
 | JAVASCRIPT    |           |
+
+## Fontes consultadas
+
+ [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input)
